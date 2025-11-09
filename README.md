@@ -1,4 +1,4 @@
-# Axiom Pro – Cryptocurrency Trading Platform
+Axiom Pro – Cryptocurrency Trading Platform
 
 This project is a modern, dark-themed cryptocurrency trading platform inspired by Axiom Pro. It replicates the visual design and core functionality of a professional trading dashboard, focusing on user experience, clarity, and responsiveness.
 
