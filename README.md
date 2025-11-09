@@ -1,40 +1,15 @@
-# Axiom Pro - Cryptocurrency Trading Platform
+# Axiom Pro – Cryptocurrency Trading Platform
 
-A modern, dark-themed cryptocurrency trading platform inspired by Axiom Pro, featuring trending crypto pairs with detailed statistics.
+This project is a modern, dark-themed cryptocurrency trading platform inspired by Axiom Pro. It replicates the visual design and core functionality of a professional trading dashboard, focusing on user experience, clarity, and responsiveness.
 
-## Features
+The goal of this project is to build an interactive front-end interface that displays trending cryptocurrency pairs with detailed market statistics, transaction data, and visual indicators. It serves as a front-end prototype that can later be extended with live API integrations for real-time trading data.
 
-- **Dark Theme UI**: Modern dark interface matching the Axiom Pro design
-- **Trending Crypto Pairs**: Display of trending cryptocurrency pairs with:
-  - Market cap and percentage changes
-  - Liquidity and volume information
-  - Transaction counts (buy/sell split)
-  - Token information with color-coded positive/negative values
-  - Mini price charts
-  - Buy buttons for each pair
-- **Navigation**: Multiple sections (Discover, Pulse, Trackers, Perpetuals, Yield, Vision, Portfolio, Rewards)
-- **Timeframe Filters**: 1m, 5m, 30m, 1h filters
-- **Responsive Design**: Works on desktop and mobile devices
+Key highlights include:
+- A dark theme UI for a professional trading environment  
+- Display of trending crypto pairs with market cap, liquidity, volume, and transaction counts  
+- Interactive time filters (1m, 5m, 30m, 1h)  
+- Color-coded values to represent market performance  
+- Responsive layout for both desktop and mobile devices  
 
-## Files
-
-- `index.html` - Main HTML structure
-- `styles.css` - Dark theme styling
-- `script.js` - JavaScript for interactivity and data rendering
-
-## Usage
-
-1. Open `index.html` in a web browser
-2. The page will display trending crypto pairs with sample data
-3. Click on tabs, timeframes, or buy buttons to interact
-
-## Customization
-
-- Modify `cryptoData` array in `script.js` to add/update crypto pairs
-- Adjust colors in `styles.css` to match your preferences
-- Add API integration to fetch real-time data
-
-## Browser Support
-
-Works on all modern browsers (Chrome, Firefox, Safari, Edge)
+This project was developed to practice advanced front-end design principles and simulate a functional cryptocurrency trading dashboard using HTML, CSS, and JavaScript.
 
